@@ -1,0 +1,13 @@
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\bin\Debug\netcoreapp3.1\MCA-MenuProgram.exe
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\bin\Debug\netcoreapp3.1\MCA-MenuProgram.deps.json
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\bin\Debug\netcoreapp3.1\MCA-MenuProgram.runtimeconfig.json
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\bin\Debug\netcoreapp3.1\MCA-MenuProgram.runtimeconfig.dev.json
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\bin\Debug\netcoreapp3.1\MCA-MenuProgram.dll
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\bin\Debug\netcoreapp3.1\MCA-MenuProgram.pdb
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\obj\Debug\netcoreapp3.1\MCA-MenuProgram.csprojAssemblyReference.cache
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\obj\Debug\netcoreapp3.1\MCA-MenuProgram.csproj.CoreCompileInputs.cache
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\obj\Debug\netcoreapp3.1\MCA-MenuProgram.AssemblyInfoInputs.cache
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\obj\Debug\netcoreapp3.1\MCA-MenuProgram.AssemblyInfo.cs
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\obj\Debug\netcoreapp3.1\MCA-MenuProgram.dll
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\obj\Debug\netcoreapp3.1\MCA-MenuProgram.pdb
+C:\Users\ljafc\source\repos\MCA-MenuProgram\MCA-MenuProgram\obj\Debug\netcoreapp3.1\MCA-MenuProgram.genruntimeconfig.cache
